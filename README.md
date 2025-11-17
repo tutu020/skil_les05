@@ -1,6 +1,6 @@
 # Werken met Git en GitHub
 
-![Git Workflow](https://miro.medium.com/v2/resize:fit:1400/1*T5-ul-2hDJ97Ho5q4t6Fig.png)
+![Git Workflow](https://miro.mediate.com/v2/resize:fit:1400/1*T5-ul-2hDJ97Ho5q4t6Fig.png)
 
 ## Onderdelen
 
